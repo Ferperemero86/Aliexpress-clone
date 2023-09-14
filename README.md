@@ -1,3 +1,3 @@
 # Aliexpress-clone
 
-Full stack Aliexpress e-commerce with vue.js + prisma test
+Full stack Aliexpress e-commerce with vue.js + prisma
